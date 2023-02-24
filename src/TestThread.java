@@ -1,7 +1,7 @@
 /**
  * 
- * @author AnselmeG
- *
+ * @author Anselme Guillaume
+ * Exercice 2.1 : AdvEx2Thread
  */
 public class TestThread extends Thread{
 

@@ -1,3 +1,9 @@
+/**
+ * 
+ * @author Anselme Guillaume
+ * Exercice 2.3 : AdvEx2Thread
+ */
+
 import java.util.Date;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
